@@ -10,4 +10,8 @@
 var myVar = "Hello, world!";
 ```
 
-Changelog : added h1 header, added h2 header, added h6 header, added image, added code.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Changelog : added h1 header, added h2 header, added h6 header, added image, added code, added list.
