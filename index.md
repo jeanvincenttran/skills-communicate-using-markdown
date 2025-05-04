@@ -4,4 +4,6 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-Changelog : added h1 header, added h2 header, added h6 header.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Changelog : added h1 header, added h2 header, added h6 header, added image.
