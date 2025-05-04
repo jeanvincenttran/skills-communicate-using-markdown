@@ -6,4 +6,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Changelog : added h1 header, added h2 header, added h6 header, added image.
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Changelog : added h1 header, added h2 header, added h6 header, added image, added code.
